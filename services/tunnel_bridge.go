@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"log"
 	"net"
-	"github.com/snail007/goproxy/utils"
+	"github.com/nextflow/goproxy/utils"
 	"strconv"
 	"sync"
 	"time"

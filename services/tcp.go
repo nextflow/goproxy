@@ -5,7 +5,7 @@ import (
 	"io"
 	"log"
 	"net"
-	"github.com/snail007/goproxy/utils"
+	"github.com/nextflow/goproxy/utils"
 	"runtime/debug"
 	"time"
 
